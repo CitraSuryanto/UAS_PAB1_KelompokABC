@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "687612494339",
+    "firebase_url": "https://hotel-review-5727a-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "hotel-review-5727a",
+    "storage_bucket": "hotel-review-5727a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:687612494339:android:77a42ee6a6131e4fc98436",
+        "android_client_info": {
+          "package_name": "com.example.reviewhotelpab"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBHKkXJzgWDf2QJWsoVRSmB6CyZELj-w4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
